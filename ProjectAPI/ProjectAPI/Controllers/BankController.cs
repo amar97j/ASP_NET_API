@@ -16,17 +16,43 @@ namespace ProjectAPI.Controllers
         {
             _context = context;
         }
+
+
         [HttpGet]
-        public List<BankBranchResponce> GetAll()
+        public IActionResult GetAll(string filter = "", int pageNumber = 1, int pageSize = 10, string sortOrder = "asc")
         {
-            return _context.BankBranches.Select(b => new BankBranchResponce
+            IQueryable<BankBranch> bankBranches = _context.BankBranches;
+
+            if (!string.IsNullOrEmpty(filter))
+            {
+                bankBranches = bankBranches.Where(b => b.LocationName.Contains(filter) || b.LocationURL.Contains(filter));
+            }
+
+            if (sortOrder.ToLower() == "desc")
+            {
+                bankBranches = bankBranches.OrderByDescending(b => b.LocationName);
+            }
+            else
+            {
+                bankBranches = bankBranches.OrderBy(b => b.LocationName);
+            }
+
+            var pagedBankBranches = bankBranches
+                .Skip((pageNumber - 1) * pageSize)
+                .Take(pageSize);
+
+            var result = pagedBankBranches.Select(b => new BankBranchResponce
             {
                 BranchManager = b.BranchManager,
                 LocationURL = b.LocationURL,
-                EmployeeCount = b.EmployeeCount,
                 LocationName = b.LocationName,
+                EmployeeCount = b.EmployeeCount,
             }).ToList();
+
+            int totalCount = bankBranches.Count();
+            return Ok(new { result, totalCount });
         }
+
 
         [HttpGet("{id}")]
         public ActionResult<BankBranchResponce> Details(int id)
