@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ProjectAPI.Models;
@@ -72,7 +73,7 @@ namespace ProjectAPI.Controllers
             };
 
         }
-
+        [Authorize]
         [HttpPatch("{id}")]
         public IActionResult Edit(int id, AddBankRequest req)
         {
@@ -90,6 +91,7 @@ namespace ProjectAPI.Controllers
 
         }
 
+        [Authorize(Roles = "admin")]
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
@@ -101,6 +103,7 @@ namespace ProjectAPI.Controllers
 
         }
 
+        [Authorize]
         [HttpPost]
         public IActionResult Add(AddBankRequest req) 
         {

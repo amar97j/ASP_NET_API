@@ -1,12 +1,440 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\83320\\Desktop\\ProjectAPI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\bankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\tokenclaimsconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\tokenclaimsconstant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Migrations\\20240501062730_NewDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProjectAPI\\Migrations\\20240501062730_NewDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\migrations\\bankcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\migrations\\bankcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\migrations\\20240425055800_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\migrations\\20240425055800_initialcreate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\bankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\bankcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\bankdashboaredviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\bankdashboaredviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\useraccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\useraccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\userloginreguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\userloginreguest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\newbranchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\newbranchform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\bankbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\bankbranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\addemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\addemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\addemployeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\models\\addbankrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\models\\addbankrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\83320\\desktop\\projectapi\\projectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{479A2512-2ADC-4DF7-9AE9-9E06FC32848E}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "VerticalTabListWidth": 275,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240425055800_InitialCreate1.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Migrations\\20240425055800_InitialCreate1.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Migrations\\20240425055800_InitialCreate1.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Migrations\\20240425055800_InitialCreate1.cs",
+              "RelativeToolTip": "ProjectAPI\\Migrations\\20240425055800_InitialCreate1.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:20:58.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Program.cs",
+              "RelativeToolTip": "ProjectAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T07:35:31.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:13:45.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\UserRegistration.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\UserRegistration.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\UserRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:13:17.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankController.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Controllers\\BankController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\BankController.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Controllers\\BankController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\BankController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAowGsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T08:24:57.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenClaimsConstant.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\TokenClaimsConstant.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\TokenClaimsConstant.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\TokenClaimsConstant.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\TokenClaimsConstant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:26:51.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\AuthServices.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\AuthServices.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\AuthServices.cs",
+              "ViewState": "AQIAAA8AAACAgS+uPrUOwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:07:47.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BankContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Migrations\\BankContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Migrations\\BankContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Migrations\\BankContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjectAPI\\Migrations\\BankContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:21:07.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240501062730_NewDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Migrations\\20240501062730_NewDatabase.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Migrations\\20240501062730_NewDatabase.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Migrations\\20240501062730_NewDatabase.cs",
+              "RelativeToolTip": "ProjectAPI\\Migrations\\20240501062730_NewDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:27:30.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:17:27.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserLoginReguest.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\UserLoginReguest.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\UserLoginReguest.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\UserLoginReguest.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\UserLoginReguest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:11:35.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NewBranchForm.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\NewBranchForm.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\NewBranchForm.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\NewBranchForm.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\NewBranchForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:11:33.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:11:31.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\EmployeeResponse.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\EmployeeResponse.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\EmployeeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:11:30.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BankDashboaredViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\BankDashboaredViewModel.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\BankDashboaredViewModel.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\BankDashboaredViewModel.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\BankDashboaredViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:11:26.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddEmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\AddEmployeeForm.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\AddEmployeeForm.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\AddEmployeeForm.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\AddEmployeeForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:11:05.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:09:36.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:09:32.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\AddEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\AddEmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\AddEmployeeRequest.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\AddEmployeeRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:09:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAccounts.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\UserAccounts.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\UserAccounts.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\UserAccounts.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\UserAccounts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:08:56.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BankContext.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\BankContext.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\BankContext.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\BankContext.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\BankContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowBYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:08:11.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddBankRequest.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\AddBankRequest.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\AddBankRequest.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\AddBankRequest.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\AddBankRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:07:16.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BankBranch.cs",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\BankBranch.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Models\\BankBranch.cs",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\Models\\BankBranch.cs",
+              "RelativeToolTip": "ProjectAPI\\Models\\BankBranch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T06:07:08.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\83320\\Desktop\\ProjectAPI\\ProjectAPI\\appsettings.json",
+              "RelativeToolTip": "ProjectAPI\\appsettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T08:25:48.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
